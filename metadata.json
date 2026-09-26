@@ -1,0 +1,7 @@
+{
+  "name": "StreamTube",
+  "description": "Next-generation dark-themed video streaming platform featuring immersive 4K playback, dynamic discovery feeds, channel hubs, and subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
